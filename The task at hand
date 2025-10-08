@@ -1,0 +1,3 @@
+create a file with .txt extension.
+Change the permission set of that file, so that any user can read it, group can read/write & owner can read/write/execute it.
+check for the changes and verify
